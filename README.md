@@ -5,7 +5,7 @@
 <br/>
 
 <!-- skills:start -->
-<img src="https://skillicons.dev/icons?i=python,cs,js,nodejs,bash,git,vscode&theme=dark" height="34" alt="languages and tools" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,swift,git,vscode&theme=dark" height="34" alt="languages and tools" />
 <!-- skills:end -->
 
 </div>
@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f6e0.svg" width="18" align="middle" alt="" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1200&pause=1000&color=E6EDF3&repeat=false&width=400&height=36&vCenter=true&lines=latest+things+i+built" align="middle" alt="latest things i built" />
 
 <!-- repos:start -->
-<a href="https://github.com/ppdrada?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=700&pause=400&color=A6ADC8&background=161B22&multiline=true&repeat=false&width=520&height=144&lines=%C2%A0%24%20ls%20~%2Fprojects%20--latest;%C2%A0%E2%80%BA%20SoundTuneKey%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0c%23;%C2%A0%E2%80%BA%20git-commands%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0shell;%C2%A0%E2%80%BA%20facial-unlock%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python;%C2%A0%E2%80%BA%20Flower%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python;%C2%A0%E2%80%BA%20it-assistant%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0javascript" alt="latest repos" /></a>
+<a href="https://github.com/ppdrada?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=700&pause=400&color=A6ADC8&background=161B22&multiline=true&repeat=false&width=520&height=144&lines=%C2%A0%24%20ls%20~%2Fprojects%20--latest;%C2%A0%E2%80%BA%20SoundTuneKey%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0swift;%C2%A0%E2%80%BA%20git-commands%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0shell;%C2%A0%E2%80%BA%20facial-unlock%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python;%C2%A0%E2%80%BA%20Flower%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python;%C2%A0%E2%80%BA%20it-assistant%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0javascript" alt="latest repos" /></a>
 <!-- repos:end -->
 
 <br/><br/>
