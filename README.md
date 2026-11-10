@@ -30,8 +30,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/BFBFBF"><img src="https://cdn.simpleicons.org/git/595959" height="34" alt="Git" /></picture>&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/vscode.svg"><img src="assets/vscode-light.svg" height="34" alt="VS Code" /></picture>&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postman/BFBFBF"><img src="https://cdn.simpleicons.org/postman/595959" height="34" alt="Postman" /></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/BFBFBF"><img src="https://cdn.simpleicons.org/openjdk/595959" height="34" alt="Java" /></picture>&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/BFBFBF"><img src="https://cdn.simpleicons.org/javascript/595959" height="34" alt="JavaScript" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/BFBFBF"><img src="https://cdn.simpleicons.org/openjdk/595959" height="34" alt="Java" /></picture>&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/BFBFBF"><img src="https://cdn.simpleicons.org/html5/595959" height="34" alt="HTML" /></picture>&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/BFBFBF"><img src="https://cdn.simpleicons.org/python/595959" height="34" alt="Python" /></picture>&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/BFBFBF"><img src="https://cdn.simpleicons.org/css/595959" height="34" alt="CSS" /></picture>&nbsp;&nbsp;
