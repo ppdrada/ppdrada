@@ -1,48 +1,68 @@
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
+  <img src="assets/title-light.svg" height="48" alt="hey, i'm pedro" />
+</picture>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=A6ADC8&center=true&vCenter=true&width=500&lines=hi%2C+i'm+pedro+%F0%9F%A4%98;IT+Support+%C2%B7+Software+Engineering;building+small+tools+for+real+problems" alt="hi, i'm pedro" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <img src="assets/banner-light.gif" width="100%" alt="drawing of me at the desk with a coffee and a laptop" />
+</picture>
+
+<div align="center">
 
 <br/>
+<a href="https://www.linkedin.com/in/pedro-lsouza/"><img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjQkZCRkJGIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NTBjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NzAgNy4zNjAtMTAuODcwIDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+<a href="https://open.spotify.com/user/lopes.dsouza"><img src="https://img.shields.io/badge/Spotify-2A2A2A?style=for-the-badge&logo=spotify&logoColor=BFBFBF" alt="Spotify" /></a>
+<a href="https://github.com/ppdrada?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2A2A2A?style=for-the-badge&logo=github&logoColor=BFBFBF" alt="Repositories" /></a>
+
+</div>
+
+## tech stack
+
+<div align="center">
 
 <!-- skills:start -->
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,swift,git,vscode&theme=dark" height="34" alt="languages and tools" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/windows.svg"><img src="assets/windows-light.svg" height="34" alt="Windows" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/BFBFBF"><img src="https://cdn.simpleicons.org/apple/595959" height="34" alt="macOS" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/BFBFBF"><img src="https://cdn.simpleicons.org/linux/595959" height="34" alt="Linux" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/BFBFBF"><img src="https://cdn.simpleicons.org/git/595959" height="34" alt="Git" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/vscode.svg"><img src="assets/vscode-light.svg" height="34" alt="VS Code" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postman/BFBFBF"><img src="https://cdn.simpleicons.org/postman/595959" height="34" alt="Postman" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/BFBFBF"><img src="https://cdn.simpleicons.org/openjdk/595959" height="34" alt="Java" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/BFBFBF"><img src="https://cdn.simpleicons.org/javascript/595959" height="34" alt="JavaScript" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/BFBFBF"><img src="https://cdn.simpleicons.org/html5/595959" height="34" alt="HTML" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/BFBFBF"><img src="https://cdn.simpleicons.org/python/595959" height="34" alt="Python" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/BFBFBF"><img src="https://cdn.simpleicons.org/css/595959" height="34" alt="CSS" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/BFBFBF"><img src="https://cdn.simpleicons.org/typescript/595959" height="34" alt="TypeScript" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/BFBFBF"><img src="https://cdn.simpleicons.org/gnubash/595959" height="34" alt="Shell" /></picture>
 <!-- skills:end -->
 
 </div>
 
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f579.svg" width="18" align="middle" alt="" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1200&pause=1000&color=E6EDF3&repeat=false&width=260&height=36&vCenter=true&lines=playing" align="middle" alt="playing" />
+## playing
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppdrada/ppdrada/output/pacman-contribution-graph-dark.svg">
   <img alt="pac-man eating my contributions" src="https://raw.githubusercontent.com/ppdrada/ppdrada/output/pacman-contribution-graph.svg">
 </picture>
 
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f6e0.svg" width="18" align="middle" alt="" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1200&pause=1000&color=E6EDF3&repeat=false&width=260&height=36&vCenter=true&lines=latest+things+i+built" align="middle" alt="latest things i built" />
-
-<!-- repos:start -->
-<a href="https://github.com/ppdrada?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=700&pause=400&color=A6ADC8&background=161B22&multiline=true&repeat=false&width=520&height=144&lines=%C2%A0%24%20ls%20~%2Fprojects%20--latest;%C2%A0%E2%80%BA%20ElementBender%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python;%C2%A0%E2%80%BA%20SoundTuneKey%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0swift;%C2%A0%E2%80%BA%20git-commands%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0shell;%C2%A0%E2%80%BA%20facial-unlock%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python;%C2%A0%E2%80%BA%20Flower%C2%A0%C2%A0%C2%B7%C2%A0%C2%A0python" alt="latest repos" /></a>
-<!-- repos:end -->
-
-<br/><br/>
-
----
+## latest things i built
 
 <div align="center">
 
-<img src="speedometer.svg" width="420" alt="It does not matter how slowly you go as long as you do not stop" />
+<!-- repos:start -->
+<a href="https://github.com/ppdrada/BiRefs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-BiRefs.svg"><img src="assets/repo-BiRefs-light.svg" width="18%" alt="BiRefs · typescript" /></picture></a>&nbsp;<a href="https://github.com/ppdrada/SoundTuneKey"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-SoundTuneKey.svg"><img src="assets/repo-SoundTuneKey-light.svg" width="18%" alt="SoundTuneKey · swift" /></picture></a>&nbsp;<a href="https://github.com/ppdrada/it-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-it-assistant.svg"><img src="assets/repo-it-assistant-light.svg" width="18%" alt="it-assistant · javascript" /></picture></a>&nbsp;<a href="https://github.com/ppdrada/no-leaks-secret-santa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-no-leaks-secret-santa.svg"><img src="assets/repo-no-leaks-secret-santa-light.svg" width="18%" alt="no-leaks-secret-santa · typescript" /></picture></a>&nbsp;<a href="https://github.com/ppdrada/ElementBender"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-ElementBender.svg"><img src="assets/repo-ElementBender-light.svg" width="18%" alt="ElementBender · python" /></picture></a>
+<!-- repos:end -->
 
 </div>
 
-<br/><br/>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-lsouza/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/lopes.dsouza"><img src="https://img.shields.io/badge/Spotify-161B22?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="speedometer.svg">
+  <img src="assets/speedometer-light.svg" width="420" alt="It does not matter how slowly you go as long as you do not stop" />
+</picture>
 
 </div>
